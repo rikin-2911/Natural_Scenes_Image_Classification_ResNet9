@@ -18,7 +18,10 @@ Welcome to the **Natural Scenes Image Classification** project — a deep learni
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-DeepLearning-8A2BE2?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
+
+---
 ## 📂 Dataset Overview
 
 The dataset used contains 14,000+ high-quality labeled images of various natural scenes, such as:
