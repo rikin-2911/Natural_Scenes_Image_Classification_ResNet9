@@ -28,12 +28,11 @@ The dataset used contains 14,000+ high-quality labeled images of various natural
 
 - Forest
 - Mountain
-- Desert
 - Sea
 - Glacier
 - Buildings
 - Streets
-- And more...
+  
 
 > The data is organized in folders by class and split into training and validation sets.
 
