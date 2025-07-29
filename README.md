@@ -9,7 +9,7 @@ Welcome to the **Natural Scenes Image Classification** project — a deep learni
 - 📦 **Framework**: PyTorch (built from scratch, no pre-trained weights)
 - 🔁 **Data Augmentation**: Applied transformations for robustness
 - 🎯 **Accuracy Achieved**: ~91% on validation/test set
-- 🗂️ **Dataset**: 14,000+ labeled images across multiple natural categories
+- 🗂️ **Dataset**: Intel Image dataset of 17,000+ labeled images across multiple natural categories
 
 ---
 ## 🧰 Tech Stack & Tools
