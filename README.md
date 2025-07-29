@@ -12,6 +12,12 @@ Welcome to the **Natural Scenes Image Classification** project — a deep learni
 - 🗂️ **Dataset**: 14,000+ labeled images across multiple natural categories
 
 ---
+## 🧰 Tech Stack & Tools
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=Jupyter&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-DeepLearning-8A2BE2?style=for-the-badge)
 
 ## 📂 Dataset Overview
 
